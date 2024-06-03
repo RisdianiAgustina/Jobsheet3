@@ -24,6 +24,7 @@
         android:backgroundTint="#009688"
         android:fontFamily="sans-serif-black"
         android:text="Dua"
+        android:textColor="@color/white"
         app:autoSizeTextType="uniform"
         tools:layout_editor_absoluteX="16dp"
         tools:layout_editor_absoluteY="154dp" />
@@ -36,6 +37,7 @@
         android:backgroundTint="#009688"
         android:fontFamily="sans-serif-black"
         android:text="Tiga"
+        android:textColor="@color/white"
         app:autoSizeTextType="uniform"
         tools:layout_editor_absoluteX="227dp"
         tools:layout_editor_absoluteY="154dp" />
@@ -48,6 +50,7 @@
         android:backgroundTint="#009688"
         android:fontFamily="sans-serif-black"
         android:text="Satu"
+        android:textColor="@color/white"
         app:autoSizeTextType="uniform"
         tools:layout_editor_absoluteX="24dp"
         tools:layout_editor_absoluteY="34dp" />
@@ -60,6 +63,7 @@
         android:backgroundTint="#009688"
         android:fontFamily="sans-serif-black"
         android:text="Empat"
+        android:textColor="@color/white"
         app:autoSizeTextType="uniform"
         tools:layout_editor_absoluteX="227dp"
         tools:layout_editor_absoluteY="220dp" />
